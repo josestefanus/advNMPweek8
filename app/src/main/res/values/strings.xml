@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emptytodo">Your todo list empty. Create a new one</string>
+    <string name="newtodo">New todo</string>
+    <string name="todotitle">Todo title</string>
+    <string name="note">Notes</string>
+    <string name="createtodo">Create Todo</string>
+</resources>
